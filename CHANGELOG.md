@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-storage?activeTab=versions
 
+## [5.7.0](https://www.github.com/googleapis/nodejs-storage/compare/v5.6.0...v5.7.0) (2020-12-07)
+
+
+### Features
+
+* support metadata updates from makePrivate() methods ([#1355](https://www.github.com/googleapis/nodejs-storage/issues/1355)) ([3db1e83](https://www.github.com/googleapis/nodejs-storage/commit/3db1e832af1cd3a394305b0a1120953d85f86249))
+
 ## [5.6.0](https://www.github.com/googleapis/nodejs-storage/compare/v5.5.1...v5.6.0) (2020-12-02)
 
 
